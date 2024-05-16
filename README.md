@@ -181,8 +181,6 @@ confusion_matrix(test_image_gen.classes,predictions)
 ![DLii](https://github.com/BALA291/malaria-cell-recognition/assets/120717501/a5596142-d0fb-4228-bfec-d6f3bc62e552)
 
 ### Confusion Matrix
-#### BALAMURUGAN
-#### 212222230016
 ![image](https://github.com/BALA291/malaria-cell-recognition/assets/120717501/8a0c0a21-cf42-4205-96f8-34aa53c8d042)
 
 ### New Sample Data Prediction
