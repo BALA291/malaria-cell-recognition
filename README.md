@@ -160,15 +160,15 @@ losses = pd.DataFrame(model.history.history)
 print("BALAMURUGAN B\n212222230016")
 losses[['loss','val_loss']].plot()
 model.metrics_names
-print("JANARTHANAN V K\n212222230051\n")
+print("BALAMURUGAN B\n212222230016")
 model.evaluate(test_image_gen)
 pred_probabilities = model.predict(test_image_gen)
-print("JANARTHANAN V K\n212222230051\n")
+print("BALAMURUGAN B\n212222230016")
 test_image_gen.classes
 predictions = pred_probabilities > 0.5
-print("JANARTHANAN V K\n212222230051\n")
+
 print(classification_report(test_image_gen.classes,predictions))
-print("JANARTHANAN V K\n212222230051\n")
+
 confusion_matrix(test_image_gen.classes,predictions)
 ```
 
